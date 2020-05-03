@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=comparison][Comparison]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-85/][SRFI 85]]: Recursive Equivalence Predicates, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
